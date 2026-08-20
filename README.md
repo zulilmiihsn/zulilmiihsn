@@ -152,15 +152,15 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Commit Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulilmiihsn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="zulilmiihsn GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulilmiihsn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulilmiihsn&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulilmiihsn&theme=tokyonight" alt="Most Committed Languages" width="49%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulilmiihsn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulilmiihsn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" alt="Activity Graph" width="98%" />
 </p>
 
 ---
