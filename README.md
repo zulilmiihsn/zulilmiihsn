@@ -9,38 +9,23 @@ AI Product Engineer specializing in computer vision pipelines, autonomous growth
 
 ---
 
-## Technical Architecture & Systems Overview
+## Proven Engineering Highlights
 
-```mermaid
-flowchart LR
-    subgraph AI_Ingestion [AI & Computer Vision]
-        A1[17-Column Physical Survey Sheets] --> A2[PaddleOCR PP-OCRv5 + OpenCV Pipeline]
-        A2 --> A3[Fuzzy Spatial Cell Mapping]
-        A3 --> A4[Structured Web Form Ingestion]
-    end
-
-    subgraph Autonomous_RPA [Autonomous Growth & Bots]
-        B1[Marketplace & Group Target Feeds] --> B2[Playwright Stealth Engine]
-        B2 --> B3[Groq AI Copywriting Agent]
-        B3 --> B4[SQLite Event Ledger & React Dashboard]
-    end
-
-    subgraph Commerce_Engine [Offline-First Retail Systems]
-        C1[Low-Spec Cashier Devices] --> C2[SvelteKit 5 + IndexedDB Cache]
-        C2 --> C3[Offline Transaction Sync]
-        C3 --> C4[Supabase Cloud DB & Cash Auditing]
-    end
-```
+- **BPS Malang Document AI**: Built a 6-stage computer vision and OCR pipeline for Badan Pusat Statistik to extract 17-column paper survey sheets into structured web forms. Implemented fuzzy spatial cell mapping that reduced cell-matching computation by 99.4%.
+- **Autonomous Growth Automation**: Engineered a fullstack multi-account Facebook Marketplace and Group automation engine utilizing Playwright Stealth, Groq AI copywriters, Express 5, and an embedded SQLite database.
+- **Offline-First Retail POS**: Developed a zero-latency Point of Sale system for Zatiaras Juice to replace discontinued commercial software. Built with SvelteKit 5, Supabase, and IndexedDB to guarantee smooth operation on low-spec second-hand cashier devices.
+- **Enterprise Workspace Systems**: Delivered a multi-year document archiving system for PUSJARSKPP with resumable Drive uploads and automated reporting via Google Apps Script and GitHub Actions CI/CD.
+- **Web Operating System**: Architected `ilmi-os`, an interactive dual-mode (macOS/iOS) web operating system simulator with window multitasking, draggable desktop icons (@dnd-kit), and Zustand state machines.
 
 ---
 
-## Engineering Domains & Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,opencv,ts,react,nextjs,svelte,tailwind,nodejs,express,postgres,supabase,firebase,sqlite,kotlin,docker,githubactions" alt="Tech Stack Matrix" />
 </p>
 
-| Domain | Technologies |
+| Domain | Technologies & Tools |
 | :--- | :--- |
 | **AI, Vision & Automation** | Python 3.13, PaddleOCR (PP-OCRv5), OpenCV 4.10, Playwright Stealth, Groq API, n8n, Zapier, Chrome Extensions (Manifest V3) |
 | **Frontend & Web Systems** | Next.js (14/15), React (18/19), TypeScript, SvelteKit 5.0, Zustand 5, Tailwind CSS 4, Framer Motion |
@@ -48,11 +33,11 @@ flowchart LR
 
 ---
 
-## Featured Implementations
+## Projects
 
 ### AI, Computer Vision & Process Automation
 
-| System | Real-World Impact & Technical Architecture | Stack | Source |
+| System | Real-World Impact & Architecture | Stack | Source |
 | :--- | :--- | :--- | :---: |
 | [**Automation Post**](https://github.com/zulilmiihsn/automation-post) | Autonomous multi-account growth engine with Playwright stealth browser automation, Groq AI copywriter agent, automated bump scheduler, and SQLite backend. | Playwright, Groq AI, Express 5, React, SQLite | [Repository](https://github.com/zulilmiihsn/automation-post) |
 | [**BPS Malang Document AI**](https://github.com/zulilmiihsn/bps-sipw-ocr) | 6-stage document processing pipeline digitizing 17-column paper surveys with morphological line detection, fuzzy spatial indexing (99.4% compute reduction), and PyQt5 desktop app. | Python, PaddleOCR, OpenCV, PyQt5 | [Repository](https://github.com/zulilmiihsn/bps-sipw-ocr) |
@@ -85,7 +70,7 @@ flowchart LR
 
 ---
 
-## Engineering Velocity & Activity
+## Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulilmiihsn&theme=tokyonight" alt="Profile Details" width="98%" />
