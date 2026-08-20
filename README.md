@@ -19,8 +19,8 @@
 As an **AI Product Engineer with a strong Business foundation**, I build digital products designed around practical constraints, operational bottlenecks, and commercial viability.
 
 - 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert complex 17-column paper surveys into structured web forms using **PaddleOCR (PP-OCRv5)** and **OpenCV** with Fuzzy Spatial Cell Mapping (reducing calculations by 99.4%).
+- ⚡ **Workflow Automation & Agentic Pipelines**: Designing end-to-end automated business workflows using **n8n** and **Zapier**—connecting AI agent nodes, webhooks, CRMs, databases, and custom RPA Chrome Extensions to eliminate operational friction.
 - 💼 **Production Commerce Under Hardware Constraints**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Juice** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience and shift cash auditing.
-- ⚡ **Process Automation & Browser RPA**: Developed dedicated **Chrome Extensions (Manifest V3)** to automate high-friction multi-field form submissions on government portals (**`frs.bps.go.id`**) with drag-and-drop payload injection and keyboard hotkeys.
 - 🖥️ **Complex Frontend Architecture**: Architected **ilmi-os**, an interactive dual-mode (macOS/iOS) web operating system simulator with window multitasking, draggable desktop icons (@dnd-kit), and Zustand state machines.
 
 ---
@@ -29,7 +29,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI, Vision & Automation** | `Python 3.13` `PaddleOCR (PP-OCRv5)` `OpenCV` `PyQt5 Desktop` `Chrome Extension Manifest V3` `Puppeteer` |
+| **Workflow Automation & AI Agents** | `n8n` `Zapier` `Webhooks` `Chrome Extension APIs` `RPA / Browser Automation` `Prompt Engineering` |
+| **Computer Vision & Document AI** | `Python 3.13` `PaddleOCR (PP-OCRv5)` `OpenCV` `PyQt5 Desktop` `Tesseract` `Puppeteer` |
 | **Frontend & Web Systems** | `Next.js 15 / 14` `React 18 / 19` `TypeScript` `SvelteKit 5.0` `Zustand 5` `Tailwind CSS 4` `Framer Motion` |
 | **Backend & Commerce DB** | `Supabase (PostgreSQL)` `Firebase Firestore` `Node.js` `IndexedDB (idb-keyval)` `PWA / Workbox` |
 | **Product Strategy & Design** | `Constraint-Driven Engineering` `Low-Spec Hardware Optimization` `Conversion Funnels` `Figma-to-Code` |
