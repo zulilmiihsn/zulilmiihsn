@@ -19,7 +19,7 @@
 As an **AI Product Engineer with a strong Business foundation**, I build digital products designed around practical constraints, operational bottlenecks, and commercial viability.
 
 - 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert complex 17-column paper surveys into structured web forms using **PaddleOCR (PP-OCRv5)** and **OpenCV** with Fuzzy Spatial Cell Mapping (reducing calculations by 99.4%).
-- ⚡ **Workflow Automation & Agentic Pipelines**: Designing end-to-end automated business workflows using **n8n** and **Zapier**—connecting AI agent nodes, webhooks, CRMs, databases, and custom RPA Chrome Extensions to eliminate operational friction.
+- ⚡ **Autonomous Growth Bots & Agentic RPA**: Engineered multi-account social commerce automation engines using **Playwright Stealth**, **Groq AI Agent Copywriters**, **Express 5**, and **SQLite** alongside dedicated **Chrome Extensions (Manifest V3)** and **n8n / Zapier** workflows.
 - 💼 **Production Commerce & Hardware Optimization**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Juice** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience and shift cash auditing.
 - 🏛️ **Enterprise Systems & Mobile Engineering**: Architected cloud archive management systems (**PUSJARSKPP**), fullstack institutional platforms (**Sekolahku**), and native Android POS applications in **Kotlin**.
 - 🖥️ **Complex Frontend Architecture**: Architected **ilmi-os**, an interactive dual-mode (macOS/iOS) web operating system simulator with window multitasking, draggable desktop icons (@dnd-kit), and Zustand state machines.
@@ -30,10 +30,10 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Workflow Automation & AI Agents** | `n8n` · `Zapier` · `Webhooks` · `Chrome Extension APIs (Manifest V3)` · `Browser RPA` · `Prompt Engineering` |
+| **AI Agents & Growth Automation** | `Playwright Stealth` · `Groq AI API` · `n8n` · `Zapier` · `Webhooks` · `Chrome Extension APIs (Manifest V3)` · `Browser RPA` |
 | **Computer Vision & Document AI** | `Python 3.13` · `PaddleOCR (PP-OCRv5)` · `OpenCV 4.10` · `PyQt5 Desktop` · `NumPy` · `Tesseract` |
 | **Frontend & Web Systems** | `Next.js 15 / 14` · `React 18 / 19` `TypeScript` · `SvelteKit 5.0` · `Zustand 5` · `Tailwind CSS 4` |
-| **Backend, Mobile & Enterprise** | `Supabase (PostgreSQL)` · `Firebase Firestore` · `Kotlin (Android Native)` · `Google Apps Script` · `Node.js` · `IndexedDB` |
+| **Backend, Mobile & Enterprise** | `Supabase (PostgreSQL)` · `Firebase Firestore` · `Kotlin (Android Native)` · `Google Apps Script` · `Express 5` · `SQLite` |
 | **Product Strategy & Design** | `Constraint-Driven Engineering` · `Hardware Optimization` · `Conversion Funnels` · `Figma-to-Code` |
 
 ---
@@ -44,6 +44,7 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 | Product / System | Real-World Problem & Impact | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
+| [**Automation Post & FB Robot**](https://github.com/zulilmiihsn/automation-post) | **Autonomous Social Growth Engine & AI Copywriter**<br />Fullstack multi-account Facebook Marketplace & Groups automation platform with Playwright stealth humanized interactions, Groq AI copywriter agent, automated bump (*sundul*) scheduler, SQLite database, and full React operator dashboard. | `Playwright Stealth` `Groq AI` `Express 5` `React` `SQLite` | [**automation-post ↗**](https://github.com/zulilmiihsn/automation-post) |
 | [**BPS Malang Document AI**](https://github.com/zulilmiihsn/bps-sipw-ocr) | **6-Stage Table AI & Survey Automation (BPS Kota Malang)**<br />Built during internship at Badan Pusat Statistik to automate physical intake of 17-column survey forms. Features PaddleOCR PP-OCRv5, morphological line detection, fuzzy spatial cell mapping (reducing computations by 99.4%), and a dedicated PyQt5 Desktop GUI. | `Python` `PaddleOCR` `PyQt5` `OpenCV` | [**bps-sipw-ocr ↗**](https://github.com/zulilmiihsn/bps-sipw-ocr) |
 | [**BPS FRS Automator**](https://github.com/zulilmiihsn/bps-frs-extension) | **Government RPA Chrome Extension (`frs.bps.go.id`)**<br />Browser extension (Manifest V3) automating repetitive survey data entry into official BPS web portals with Drag-and-Drop JSON payload injection and keyboard hotkeys. | `Chrome Extension` `JavaScript` `DOM RPA` | [**bps-frs-extension ↗**](https://github.com/zulilmiihsn/bps-frs-extension) |
 | [**Vector Stream Downloader**](https://github.com/zulilmiihsn/vector-stream-downloader) | **Developer Tooling Chrome Extension**<br />Browser extension utility designed for seamless vector SVG capturing and stream downloading workflow automation. | `Chrome Extension` `JavaScript` `SVG` | [**vector-stream-downloader ↗**](https://github.com/zulilmiihsn/vector-stream-downloader) |
