@@ -2,10 +2,11 @@
 
 # 👋 Hi, I'm Zul Ilmi Ihsan (`@zulilmiihsn`)
 
-### **AI Product Engineer** • Blending Artificial Intelligence, Full-Stack Architecture & Business Strategy
+### **AI Product Engineer** • Building Real-World Solutions Across AI, Automation & Commerce
 
 <p align="center">
-  <a href="https://github.com/zulilmiihsn/iLmi"><img src="https://img.shields.io/badge/Flagship_Project-iLmi_Web_OS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="iLmi Web OS" /></a>
+  <a href="https://github.com/zulilmiihsn/iLmi"><img src="https://img.shields.io/badge/Flagship_OS-iLmi_Web_OS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="iLmi Web OS" /></a>
+  <a href="https://zatiaraspos.vercel.app"><img src="https://img.shields.io/badge/Production_POS-Zatiaras_POS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Zatiaras POS" /></a>
   <a href="https://github.com/zulilmiihsn?tab=repositories"><img src="https://img.shields.io/badge/All_Products-GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
@@ -13,136 +14,123 @@
 
 ---
 
-## 🎯 Executive Summary & Philosophy
+## 🎯 Executive Summary & Real-World Impact
 
-As an **AI Product Engineer with a strong foundation in Business**, I bridge the gap between complex engineering, practical machine learning/automation, and commercial product viability.
+As an **AI Product Engineer with a strong Business background**, I build digital products designed around practical constraints, operational bottlenecks, and commercial viability.
 
-- 🤖 **AI & Automation Practitioner**: Developing end-to-end intelligent pipelines (Computer Vision, OCR text extraction, Robotic Process Automation) to eliminate manual bottlenecks.
-- 💼 **Business & Commercial Impact**: Building production-ready commerce software (multi-branch POS, real-time ledger accounting, customer conversion funnels) that directly drives revenue and operational efficiency.
-- ⚡ **Product-Grade Full-Stack**: Crafting resilient, highly interactive web applications using **Next.js**, **React**, **TypeScript**, **Python**, and **Zustand**.
+- 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert stacks of physical paper surveys into web databases using Computer Vision & OCR.
+- 💼 **Production Commerce Under Hardware Constraints**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Retail** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience.
+- ⚡ **Process Automation & Browser RPA**: Developed dedicated **Chrome Extensions** that automate high-friction multi-field web submissions with one click.
+- 🖥️ **Complex Frontend Architecture**: Architected **iLmi Web OS**, an interactive dual-mode (macOS/iOS) web simulator with window multitasking, custom app runtimes, and Zustand state machines.
 
 ---
 
-## 🛠️ Skills & Product Stack
+## 🛠️ Tech Stack & Capabilities
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI & Automation** | `Python` `OpenCV` `Tesseract OCR` `Document AI` `RPA / Browser Automation` `Prompt Engineering` |
-| **Business & Web Architecture** | `Next.js 15` `React 18 / 19` `TypeScript` `SvelteKit 5` `Zustand` `Supabase (PostgreSQL)` |
-| **Product Strategy & Design** | `Product Requirement Docs (PRD)` `Conversion Funnel Optimization` `Figma` `UI/UX Architecture` |
-| **Workflow & Tooling** | `Git` `pnpm` `REST APIs` `Vercel` `CI/CD Pipelines` `Tailwind CSS 4` |
+| **AI, Vision & Automation** | `Python` `OpenCV` `Tesseract OCR` `Chrome Extension APIs` `RPA / Browser Automation` |
+| **Frontend & Web Systems** | `Next.js 15` `React 18 / 19` `TypeScript` `SvelteKit 5` `Zustand` `Tailwind CSS 4` |
+| **Backend & Commerce DB** | `Supabase (PostgreSQL)` `Node.js` `Row-Level Security` `Offline-First Caching` |
+| **Product Strategy & Design** | `Constraint-Driven Engineering` `Hardware Optimization` `Conversion Funnels` `Figma` |
 
 ---
 
-## 🌟 Flagship Products & Systems
+## 🌟 Featured Products & Proven Case Studies
 
-### 🤖 Pillar 1: AI, Automation & Core Architecture
+### 🤖 1. AI, Automation & System Architecture
 
 <table>
   <thead>
     <tr>
       <th width="32%">Product / System</th>
-      <th width="48%">Problem Solved & Product Impact</th>
+      <th width="48%">Real-World Problem & Impact</th>
       <th width="20%">Stack & Source</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/ocr-sipw"><strong>OCR Document Intelligence</strong></a>
+        <a href="https://github.com/zulilmiihsn/ocr-sipw"><strong>BPS Document AI</strong></a><br />
+        <sub><em>(repo: ocr-sipw)</em></sub>
       </td>
       <td>
-        <strong>Automated Document Digitization</strong>: Computer Vision & OCR pipeline extracting structured text from invoices, receipts, and forms—reducing manual data entry time by over 80%.
+        <strong>Physical-to-Digital Survey Automation (BPS Kota Malang)</strong>:<br />
+        Built during internship at Badan Pusat Statistik to eliminate manual typing of paper survey sheets into web forms via OpenCV image filtering, OCR text extraction, and automated form ingestion.
       </td>
       <td>
         <code>Python</code> <code>OpenCV</code> <code>OCR</code><br />
-        <a href="https://github.com/zulilmiihsn/ocr-sipw"><strong>Repository ↗</strong></a>
+        <a href="https://github.com/zulilmiihsn/ocr-sipw"><strong>Source Code ↗</strong></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/frs-auto-input"><strong>RPA Data Ingestion Script</strong></a>
+        <a href="https://github.com/zulilmiihsn/frs-auto-input"><strong>FRS Flow RPA</strong></a><br />
+        <sub><em>(repo: frs-auto-input)</em></sub>
       </td>
       <td>
-        <strong>Process Automation (RPA)</strong>: Automated script built to eliminate repetitive high-volume data entry in academic and administrative workflows with error checking.
+        <strong>One-Click Form Automation Chrome Extension</strong>:<br />
+        Browser extension automating high-stakes, time-sensitive academic course registration by batch-injecting payloads and validating forms in seconds.
       </td>
       <td>
-        <code>JavaScript</code> <code>Automation</code><br />
-        <a href="https://github.com/zulilmiihsn/frs-auto-input"><strong>Repository ↗</strong></a>
+        <code>Chrome Extension</code> <code>JS</code><br />
+        <a href="https://github.com/zulilmiihsn/frs-auto-input"><strong>Source Code ↗</strong></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/iLmi"><strong>iLmi — Web OS Architecture</strong></a>
+        <a href="https://github.com/zulilmiihsn/iLmi"><strong>iLmi — Web OS</strong></a><br />
+        <sub><em>(repo: iLmi)</em></sub>
       </td>
       <td>
-        <strong>Interactive OS Simulator</strong>: Flagship frontend system showcasing advanced state machines (Zustand), drag-and-drop window multitasking, and responsive dual-mode (Desktop/Mobile) architecture.
+        <strong>Interactive OS Simulator (Apple Ecosystem-Inspired)</strong>:<br />
+        Dual-mode (macOS Desktop + iOS Mobile) web simulator featuring full window management, draggable desktop icons (@dnd-kit), native-style app ecosystem, and Zustand state store.
       </td>
       <td>
         <code>Next.js 15</code> <code>TypeScript</code> <code>Zustand</code><br />
-        <a href="https://github.com/zulilmiihsn/iLmi"><strong>Repository ↗</strong></a>
+        <a href="https://github.com/zulilmiihsn/iLmi"><strong>Source Code ↗</strong></a>
       </td>
     </tr>
   </tbody>
 </table>
 
-### 💼 Pillar 2: Commercial Products & Business Systems
+### 💼 2. Commercial Products & Business Solutions
 
 <table>
   <thead>
     <tr>
       <th width="32%">Product</th>
       <th width="48%">Business Problem & Solution</th>
-      <th width="20%">Live Demo</th>
+      <th width="20%">Live Application</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/zatiaraspos"><strong>Zatiaras POS Platform</strong></a>
+        <a href="https://github.com/zulilmiihsn/zatiaraspos"><strong>Zatiaras POS</strong></a><br />
+        <sub><em>(repo: zatiaraspos)</em></sub>
       </td>
       <td>
-        <strong>Multi-Branch Retail Operations</strong>: Full-scale commercial Point-of-Sale with offline-first transaction resilience, real-time inventory synchronization, and WITA-aligned financial shift reporting.
+        <strong>Ultra-Lightweight POS for Low-Spec Retail Hardware</strong>:<br />
+        Built to replace discontinued GoKasir for Zatiaras retail. Engineered to run lag-free on second-hand, low-spec cashier devices with offline transaction queuing, multi-branch support, and shift cash auditing.
       </td>
       <td>
         <code>SvelteKit</code> <code>Supabase</code><br />
-        <a href="https://zatiaraspos.vercel.app"><strong>Live Application ↗</strong></a>
+        <a href="https://zatiaraspos.vercel.app"><strong>Live App ↗</strong></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/zatiarasjuice-web"><strong>Zatiaras Juice Digital Funnel</strong></a>
+        <a href="https://github.com/zulilmiihsn/zatiarasjuice-web"><strong>Zatiaras Storefront</strong></a><br />
+        <sub><em>(repo: zatiarasjuice-web)</em></sub>
       </td>
       <td>
-        <strong>Customer Acquisition Platform</strong>: High-speed commercial landing page engineered to elevate brand authority and drive direct-to-consumer order conversions via automated messaging flows.
+        <strong>Go-Digital Brand & Direct Conversion Funnel</strong>:<br />
+        Commercial web catalog enabling local beverage business to establish an online presence, showcase products, and route digital customer inquiries directly into sales orders.
       </td>
       <td>
         <code>TypeScript</code> <code>Tailwind</code><br />
         <a href="https://zatiarasjuice.vercel.app"><strong>Live Site ↗</strong></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/zulilmiihsn/kostardianv1"><strong>Kost Ardian Platform</strong></a>
-      </td>
-      <td>
-        <strong>Real Estate Booking Showcase</strong>: Digital discovery platform for boarding house properties, converting organic visitors into tenant inquiries with structured room previews.
-      </td>
-      <td>
-        <code>Next.js</code> <code>React</code><br />
-        <a href="https://kostardianv1.vercel.app"><strong>Live Site ↗</strong></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/zulilmiihsn/expeditoo"><strong>Expeditoo Logistics UI</strong></a>
-      </td>
-      <td>
-        <strong>Supply Chain & Freight Dashboard</strong>: Shipment tracking interface and dynamic rate estimation tool designed for freight operators and clients.
-      </td>
-      <td>
-        <code>TypeScript</code> <code>Tailwind</code><br />
-        <a href="https://expeditoo.vercel.app"><strong>Live Site ↗</strong></a>
       </td>
     </tr>
   </tbody>
@@ -150,10 +138,16 @@ As an **AI Product Engineer with a strong foundation in Business**, I bridge the
 
 ---
 
-## 📊 Activity & Engineering Stats
+## 🔮 Active R&D / Work in Progress
+
+- 📸 **`booth.io` — AR Web Photobooth**: Researching browser-based camera processing and real-time Augmented Reality face mesh filters for an interactive virtual photobooth experience.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulilmiihsn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zulilmiihsn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="zulilmiihsn GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulilmiihsn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </div>
 
@@ -163,9 +157,9 @@ As an **AI Product Engineer with a strong foundation in Business**, I bridge the
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/zulilmiihsn"><img src="https://img.shields.io/badge/GitHub-zulilmiihsn-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="mailto:ilhamihsan712@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ilhamihsan712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
