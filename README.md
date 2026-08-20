@@ -46,6 +46,7 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 | :--- | :--- | :--- | :---: |
 | [**BPS Malang Document AI**](https://github.com/zulilmiihsn/bps-sipw-ocr) | **6-Stage Table AI & Survey Automation (BPS Kota Malang)**<br />Built during internship at Badan Pusat Statistik to automate physical intake of 17-column survey forms. Features PaddleOCR PP-OCRv5, morphological line detection, fuzzy spatial cell mapping (reducing computations by 99.4%), and a dedicated PyQt5 Desktop GUI. | `Python` `PaddleOCR` `PyQt5` `OpenCV` | [**bps-sipw-ocr ↗**](https://github.com/zulilmiihsn/bps-sipw-ocr) |
 | [**BPS FRS Automator**](https://github.com/zulilmiihsn/bps-frs-extension) | **Government RPA Chrome Extension (`frs.bps.go.id`)**<br />Browser extension (Manifest V3) automating repetitive survey data entry into official BPS web portals with Drag-and-Drop JSON payload injection and keyboard hotkeys. | `Chrome Extension` `JavaScript` `DOM RPA` | [**bps-frs-extension ↗**](https://github.com/zulilmiihsn/bps-frs-extension) |
+| [**Vector Stream Downloader**](https://github.com/zulilmiihsn/vector-stream-downloader) | **Developer Tooling Chrome Extension**<br />Browser extension utility designed for seamless vector SVG capturing and stream downloading workflow automation. | `Chrome Extension` `JavaScript` `SVG` | [**vector-stream-downloader ↗**](https://github.com/zulilmiihsn/vector-stream-downloader) |
 
 ---
 
@@ -64,8 +65,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 | Platform / App | Focus & Solution | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | [**PUSJARSKPP Archive**](https://github.com/zulilmiihsn/pusjarskpp-archive-system) | **Enterprise Cloud Document & Record Management**<br />Production archive and workspace automation system with multi-year folder architecture, resumable Google Drive uploads, and automated spreadsheet reporting with CI/CD. | `Google Apps Script` `Drive API` `CI/CD` | [**pusjarskpp-archive-system ↗**](https://github.com/zulilmiihsn/pusjarskpp-archive-system) |
-| [**Sekolahku Platform**](https://github.com/zulilmiihsn/sekolahku-platform) | **Fullstack Modern School Management Portal**<br />Enterprise educational platform featuring role-based administration, Supabase relational database, student portal, and interactive GIS school locator. | `Next.js` `Supabase` `Leaflet GIS` `TypeScript` | [**sekolahku-platform ↗**](https://github.com/zulilmiihsn/sekolahku-platform) |
-| [**Zatiaras Android POS**](https://github.com/zulilmiihsn/zatiaras-pos-android) | **Native Android Cashier Application**<br />Native Android client designed for dedicated hardware POS terminals with optimized offline receipt workflows. | `Kotlin` `Android SDK` `Gradle` | [**zatiaras-pos-android ↗**](https://github.com/zulilmiihsn/zatiaras-pos-android) |
+| [**Sekolahku Platform**](https://github.com/zulilmiihsn/sekolahku) | **Fullstack Modern School Management Portal**<br />Enterprise educational platform featuring role-based administration, Supabase relational database, student portal, and interactive GIS school locator. | `Next.js` `Supabase` `Leaflet GIS` `TypeScript` | [**sekolahku ↗**](https://github.com/zulilmiihsn/sekolahku) |
+| [**Zatiaras Android POS**](https://github.com/zulilmiihsn/zatiaras-juice-pos-android) | **Native Android Cashier Application**<br />Native Android client designed for dedicated hardware POS terminals with optimized offline receipt workflows. | `Kotlin` `Android SDK` `Gradle` | [**zatiaras-juice-pos-android ↗**](https://github.com/zulilmiihsn/zatiaras-juice-pos-android) |
 
 ---
 
@@ -73,8 +74,9 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 | System / Project | Architectural Focus & Capabilities | Tech Stack | Source / Demo |
 | :--- | :--- | :--- | :---: |
-| [**ilmi-os — Web OS**](https://github.com/zulilmiihsn/ilmi-os) | **Apple Ecosystem-Inspired Web Operating System**<br />Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite, and Zustand state store. | `Next.js 15` `TypeScript` `Zustand 5` `Tailwind 4` | [**ilmi-os ↗**](https://github.com/zulilmiihsn/ilmi-os) |
+| [**ilmi-os — Web OS**](https://github.com/zulilmiihsn/ilmi-os) | **Apple Ecosystem-Inspired Web Operating System**<br />Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite (Finder, Terminal, Notes, Camera), and Zustand state store. | `Next.js 15` `TypeScript` `Zustand 5` `Tailwind 4` | [**ilmi-os ↗**](https://github.com/zulilmiihsn/ilmi-os) |
 | [**Embrace Agency UI**](https://github.com/zulilmiihsn/embrace-agency-ui) | **Pixel-Perfect Figma-to-Code Slicing & Capture API**<br />Multi-section modern digital agency web app with responsive layout engineering, team grid, testimonial carousels, and built-in Puppeteer automated screenshot API. | `Next.js` `Puppeteer` `Tailwind` `TypeScript` | [**Live Demo ↗**](https://embrace-dummy.vercel.app) |
+| [**GOAT Kojo Showcase**](https://github.com/zulilmiihsn/goat-kojo) | **Interactive Athlete Tribute Web App**<br />Dynamic fan tribute and interactive athlete portfolio celebrating striker Joel Kojo. | `Next.js` `React` `Tailwind CSS` `TypeScript` | [**goat-kojo ↗**](https://github.com/zulilmiihsn/goat-kojo) |
 
 ---
 
