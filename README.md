@@ -152,12 +152,16 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 ---
 
-## 📊 GitHub Analytics & Commit Activity
+## 📊 GitHub Analytics & Engineering Velocity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulilmiihsn&theme=tokyonight" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulilmiihsn&theme=tokyonight" alt="Most Committed Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulilmiihsn&theme=tokyonight" alt="Profile Details" width="98%" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulilmiihsn&theme=tokyonight" alt="GitHub Stats" width="48.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulilmiihsn&theme=tokyonight" alt="Most Committed Languages" width="48.5%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulilmiihsn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" alt="Activity Graph" width="98%" />
