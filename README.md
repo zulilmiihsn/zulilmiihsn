@@ -130,11 +130,11 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/zulilmiihsn/ardian-living"><strong>Ardian Living</strong></a>
+        <a href="https://github.com/zulilmiihsn/kost-ardian"><strong>Kost Ardian Platform</strong></a>
       </td>
       <td>
         <strong>Boarding House Platform & Realtime Peer Debt Ledger</strong>:<br />
-        Evolved across two versions: v1.0 (Static showcase prototype) and v2.0 (Progressive Web App + Firebase Firestore realtime debt ledger for roomies).
+        Fullstack Progressive Web App (PWA) with Firebase Firestore realtime peer-to-peer debt ledger and room amenity showcase.
       </td>
       <td>
         <code>Next.js</code> <code>Firebase</code> <code>PWA</code><br />
