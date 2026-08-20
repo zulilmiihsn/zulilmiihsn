@@ -18,9 +18,9 @@
 
 As an **AI Product Engineer with a strong Business foundation**, I build digital products designed around practical constraints, operational bottlenecks, and commercial viability.
 
-- 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert complex 17-column paper surveys into structured web forms using **PaddleOCR (PP-OCRv5)** and **OpenCV** Computer Vision with Fuzzy Spatial Indexing.
+- 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert complex 17-column paper surveys into structured web forms using **PaddleOCR (PP-OCRv5)** and **OpenCV** with Fuzzy Spatial Cell Mapping (reducing calculations by 99.4%).
 - 💼 **Production Commerce Under Hardware Constraints**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Juice** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience and shift cash auditing.
-- ⚡ **Process Automation & Browser RPA**: Developed dedicated **Chrome Extensions (Manifest V3)** to automate high-friction multi-field form submissions on government portals (**BPS Fast Reporting System - FRS**).
+- ⚡ **Process Automation & Browser RPA**: Developed dedicated **Chrome Extensions (Manifest V3)** to automate high-friction multi-field form submissions on government portals (**`frs.bps.go.id`**) with drag-and-drop payload injection and keyboard hotkeys.
 - 🖥️ **Complex Frontend Architecture**: Architected **ilmi-os**, an interactive dual-mode (macOS/iOS) web operating system simulator with window multitasking, draggable desktop icons (@dnd-kit), and Zustand state machines.
 
 ---
@@ -29,10 +29,10 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI, Vision & Automation** | `Python` `PaddleOCR` `OpenCV` `Tesseract` `Chrome Extension APIs` `RPA / Browser Automation` |
-| **Frontend & Web Systems** | `Next.js 15` `React 18 / 19` `TypeScript` `SvelteKit 5` `Zustand` `Tailwind CSS 4` |
-| **Backend & Commerce DB** | `Supabase (PostgreSQL)` `Firebase Firestore` `Node.js` `Row-Level Security` `Offline-First Cache` |
-| **Product Strategy & Design** | `Constraint-Driven Engineering` `Hardware Optimization` `Conversion Funnels` `Figma` |
+| **AI, Vision & Automation** | `Python 3.13` `PaddleOCR (PP-OCRv5)` `OpenCV` `PyQt5 Desktop` `Chrome Extension Manifest V3` `Puppeteer` |
+| **Frontend & Web Systems** | `Next.js 15 / 14` `React 18 / 19` `TypeScript` `SvelteKit 5.0` `Zustand 5` `Tailwind CSS 4` `Framer Motion` |
+| **Backend & Commerce DB** | `Supabase (PostgreSQL)` `Firebase Firestore` `Node.js` `IndexedDB (idb-keyval)` `PWA / Workbox` |
+| **Product Strategy & Design** | `Constraint-Driven Engineering` `Low-Spec Hardware Optimization` `Conversion Funnels` `Figma-to-Code` |
 
 ---
 
@@ -43,8 +43,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 <table>
   <thead>
     <tr>
-      <th width="32%">Product / System</th>
-      <th width="48%">Real-World Problem & Impact</th>
+      <th width="30%">Product / System</th>
+      <th width="50%">Real-World Problem & Impact</th>
       <th width="20%">Stack & Source</th>
     </tr>
   </thead>
@@ -55,10 +55,10 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
       </td>
       <td>
         <strong>6-Stage Table AI & Survey Automation (BPS Kota Malang)</strong>:<br />
-        Built during internship at Badan Pusat Statistik to automate physical intake of 17-column survey forms. Features PaddleOCR PP-OCRv5, morphological table detection, and fuzzy spatial cell mapping (reducing computations by 99.4%).
+        Built during internship at Badan Pusat Statistik to automate physical intake of 17-column survey forms. Features PaddleOCR PP-OCRv5, morphological line detection, and fuzzy spatial cell mapping (reducing computations by 99.4%) with a dedicated PyQt5 Desktop GUI.
       </td>
       <td>
-        <code>Python</code> <code>PaddleOCR</code> <code>OpenCV</code><br />
+        <code>Python</code> <code>PaddleOCR</code> <code>PyQt5</code><br />
         <a href="https://github.com/zulilmiihsn/bps-sipw-ocr"><strong>bps-sipw-ocr ↗</strong></a>
       </td>
     </tr>
@@ -81,11 +81,24 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
       </td>
       <td>
         <strong>Apple Ecosystem-Inspired Web Operating System</strong>:<br />
-        Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app ecosystem, and Zustand state store.
+        Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite (Finder, Terminal, Notes, Camera), and Zustand state store.
       </td>
       <td>
         <code>Next.js 15</code> <code>TypeScript</code> <code>Zustand</code><br />
         <a href="https://github.com/zulilmiihsn/ilmi-os"><strong>ilmi-os ↗</strong></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/zulilmiihsn/embrace-agency-ui"><strong>Embrace Agency UI</strong></a>
+      </td>
+      <td>
+        <strong>Pixel-Perfect Figma-to-Code Slicing & Capture API</strong>:<br />
+        Multi-section modern digital agency web app with responsive layout engineering, team grid, testimonial carousels, and built-in Puppeteer automated screenshot API.
+      </td>
+      <td>
+        <code>Next.js</code> <code>Puppeteer</code> <code>Tailwind</code><br />
+        <a href="https://embrace-dummy.vercel.app"><strong>Live Demo ↗</strong></a>
       </td>
     </tr>
   </tbody>
@@ -96,8 +109,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 <table>
   <thead>
     <tr>
-      <th width="32%">Product</th>
-      <th width="48%">Business Problem & Solution</th>
+      <th width="30%">Product</th>
+      <th width="50%">Business Problem & Solution</th>
       <th width="20%">Live Application</th>
     </tr>
   </thead>
@@ -108,10 +121,10 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
       </td>
       <td>
         <strong>Ultra-Lightweight POS for Low-Spec Retail Hardware</strong>:<br />
-        Engineered to replace discontinued third-party POS for Zatiaras retail. Delivers zero-latency performance on second-hand low-spec devices with offline transaction queuing, multi-branch support, and WITA cash shift auditing.
+        Engineered to replace discontinued third-party POS for Zatiaras retail. Delivers zero-latency performance on second-hand low-spec devices with offline transaction queuing (IndexedDB), multi-branch support, and WITA cash shift auditing.
       </td>
       <td>
-        <code>SvelteKit</code> <code>Supabase</code><br />
+        <code>SvelteKit 5</code> <code>Supabase</code> <code>PWA</code><br />
         <a href="https://zatiaraspos.vercel.app"><strong>Live App ↗</strong></a>
       </td>
     </tr>
@@ -121,10 +134,10 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
       </td>
       <td>
         <strong>Go-Digital Commercial Brand & Ordering Funnel</strong>:<br />
-        Commercial web catalog enabling local beverage brand to establish an online presence, showcase products, and route digital customer inquiries directly into sales orders.
+        Commercial web catalog enabling local beverage brand to establish an online presence, select nearby branches, showcase menu products, and route digital customer inquiries directly into sales orders.
       </td>
       <td>
-        <code>TypeScript</code> <code>Tailwind</code><br />
+        <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code><br />
         <a href="https://zatiarasjuice.vercel.app"><strong>Live Site ↗</strong></a>
       </td>
     </tr>
@@ -134,7 +147,7 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
       </td>
       <td>
         <strong>Boarding House Platform & Realtime Peer Debt Ledger</strong>:<br />
-        Fullstack Progressive Web App (PWA) with Firebase Firestore realtime peer-to-peer debt ledger and room amenity showcase.
+        Fullstack Progressive Web App (PWA) with Firebase Firestore realtime peer-to-peer debt ledger for roomies, interactive video backgrounds, and room amenity showcase.
       </td>
       <td>
         <code>Next.js</code> <code>Firebase</code> <code>PWA</code><br />
