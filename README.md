@@ -20,7 +20,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 - 🤖 **Applied AI & Vision Ingestion**: Built automated document digitization pipelines for government institutions (**BPS Kota Malang**) to convert complex 17-column paper surveys into structured web forms using **PaddleOCR (PP-OCRv5)** and **OpenCV** with Fuzzy Spatial Cell Mapping (reducing calculations by 99.4%).
 - ⚡ **Workflow Automation & Agentic Pipelines**: Designing end-to-end automated business workflows using **n8n** and **Zapier**—connecting AI agent nodes, webhooks, CRMs, databases, and custom RPA Chrome Extensions to eliminate operational friction.
-- 💼 **Production Commerce Under Hardware Constraints**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Juice** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience and shift cash auditing.
+- 💼 **Production Commerce & Hardware Optimization**: Engineered an ultra-lightweight Point-of-Sale (POS) system for **Zatiaras Juice** when third-party software was discontinued—delivering zero-latency performance on low-spec second-hand cashier devices with offline transaction resilience and shift cash auditing.
+- 🏛️ **Enterprise Systems & Mobile Engineering**: Architected cloud archive management systems (**PUSJARSKPP**), fullstack institutional platforms (**Sekolahku**), and native Android POS applications in **Kotlin**.
 - 🖥️ **Complex Frontend Architecture**: Architected **ilmi-os**, an interactive dual-mode (macOS/iOS) web operating system simulator with window multitasking, draggable desktop icons (@dnd-kit), and Zustand state machines.
 
 ---
@@ -31,8 +32,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 | :--- | :--- |
 | **Workflow Automation & AI Agents** | `n8n` · `Zapier` · `Webhooks` · `Chrome Extension APIs (Manifest V3)` · `Browser RPA` · `Prompt Engineering` |
 | **Computer Vision & Document AI** | `Python 3.13` · `PaddleOCR (PP-OCRv5)` · `OpenCV 4.10` · `PyQt5 Desktop` · `NumPy` · `Tesseract` |
-| **Frontend & Web Systems** | `Next.js 15 / 14` · `React 18 / 19` · `TypeScript` · `SvelteKit 5.0` · `Zustand 5` · `Tailwind CSS 4` |
-| **Backend & Commerce DB** | `Supabase (PostgreSQL)` · `Firebase Firestore` · `Node.js` · `IndexedDB (idb-keyval)` · `PWA / Workbox` |
+| **Frontend & Web Systems** | `Next.js 15 / 14` · `React 18 / 19` `TypeScript` · `SvelteKit 5.0` · `Zustand 5` · `Tailwind CSS 4` |
+| **Backend, Mobile & Enterprise** | `Supabase (PostgreSQL)` · `Firebase Firestore` · `Kotlin (Android Native)` · `Google Apps Script` · `Node.js` · `IndexedDB` |
 | **Product Strategy & Design** | `Constraint-Driven Engineering` · `Hardware Optimization` · `Conversion Funnels` · `Figma-to-Code` |
 
 ---
@@ -58,11 +59,21 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 ---
 
-### 🖥️ 3. System Architecture & Frontend Engineering
+### 🏛️ 3. Enterprise Platforms & Native Mobile
+
+| Platform / App | Focus & Solution | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| [**PUSJARSKPP Archive**](https://github.com/zulilmiihsn/pusjarskpp-archive-system) | **Enterprise Cloud Document & Record Management**<br />Production archive and workspace automation system with multi-year folder architecture, resumable Google Drive uploads, and automated spreadsheet reporting with CI/CD. | `Google Apps Script` `Drive API` `CI/CD` | [**pusjarskpp-archive-system ↗**](https://github.com/zulilmiihsn/pusjarskpp-archive-system) |
+| [**Sekolahku Platform**](https://github.com/zulilmiihsn/sekolahku-platform) | **Fullstack Modern School Management Portal**<br />Enterprise educational platform featuring role-based administration, Supabase relational database, student portal, and interactive GIS school locator. | `Next.js` `Supabase` `Leaflet GIS` `TypeScript` | [**sekolahku-platform ↗**](https://github.com/zulilmiihsn/sekolahku-platform) |
+| [**Zatiaras Android POS**](https://github.com/zulilmiihsn/zatiaras-pos-android) | **Native Android Cashier Application**<br />Native Android client designed for dedicated hardware POS terminals with optimized offline receipt workflows. | `Kotlin` `Android SDK` `Gradle` | [**zatiaras-pos-android ↗**](https://github.com/zulilmiihsn/zatiaras-pos-android) |
+
+---
+
+### 🖥️ 4. System Architecture & Frontend Engineering
 
 | System / Project | Architectural Focus & Capabilities | Tech Stack | Source / Demo |
 | :--- | :--- | :--- | :---: |
-| [**ilmi-os — Web OS**](https://github.com/zulilmiihsn/ilmi-os) | **Apple Ecosystem-Inspired Web Operating System**<br />Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite (Finder, Terminal, Notes, Camera), and Zustand state store. | `Next.js 15` `TypeScript` `Zustand 5` `Tailwind 4` | [**ilmi-os ↗**](https://github.com/zulilmiihsn/ilmi-os) |
+| [**ilmi-os — Web OS**](https://github.com/zulilmiihsn/ilmi-os) | **Apple Ecosystem-Inspired Web Operating System**<br />Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite, and Zustand state store. | `Next.js 15` `TypeScript` `Zustand 5` `Tailwind 4` | [**ilmi-os ↗**](https://github.com/zulilmiihsn/ilmi-os) |
 | [**Embrace Agency UI**](https://github.com/zulilmiihsn/embrace-agency-ui) | **Pixel-Perfect Figma-to-Code Slicing & Capture API**<br />Multi-section modern digital agency web app with responsive layout engineering, team grid, testimonial carousels, and built-in Puppeteer automated screenshot API. | `Next.js` `Puppeteer` `Tailwind` `TypeScript` | [**Live Demo ↗**](https://embrace-dummy.vercel.app) |
 
 ---
