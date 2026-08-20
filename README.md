@@ -30,8 +30,8 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Workflow Automation & AI Agents** | `n8n` · `Zapier` · `Webhooks` · `Chrome Extension APIs` · `Browser RPA` · `Prompt Engineering` |
-| **Computer Vision & Document AI** | `Python 3.13` · `PaddleOCR (PP-OCRv5)` · `OpenCV` · `PyQt5 Desktop` · `Tesseract` · `Puppeteer` |
-| **Frontend & Web Systems** | `Next.js 15 / 14` · `React 18 / 19` · `TypeScript` · `SvelteKit 5.0` · `Zustand 5` · `Tailwind CSS 4` |
+| **Computer Vision & Document AI** | `Python 3.13` · `PaddleOCR (PP-OCRv5)` · `OpenCV` · `PyQt5 Desktop` · `Tesseract` |
+| **Frontend & Web Systems** | `Next.js 15 / 14` · `React 18 / 19` `TypeScript` · `SvelteKit 5.0` · `Zustand 5` · `Tailwind CSS 4` |
 | **Backend & Commerce DB** | `Supabase (PostgreSQL)` · `Firebase Firestore` · `Node.js` · `IndexedDB` · `PWA / Workbox` |
 | **Product Strategy & Design** | `Constraint-Driven Engineering` · `Hardware Optimization` · `Conversion Funnels` · `Figma-to-Code` |
 
@@ -39,14 +39,13 @@ As an **AI Product Engineer with a strong Business foundation**, I build digital
 
 ## 🌟 Featured Products & Proven Case Studies
 
-### 🤖 1. AI, Automation & System Architecture
+### 🤖 1. AI, Vision & Workflow Automation
 
 | Product / System | Real-World Problem & Impact | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | [**BPS Malang Document AI**](https://github.com/zulilmiihsn/bps-sipw-ocr) | **6-Stage Table AI & Survey Automation (BPS Kota Malang)**<br />Built during internship at Badan Pusat Statistik to automate physical intake of 17-column survey forms. Features PaddleOCR PP-OCRv5, morphological line detection, fuzzy spatial cell mapping (reducing computations by 99.4%), and PyQt5 Desktop GUI. | `Python` `PaddleOCR` `PyQt5` `OpenCV` | [**bps-sipw-ocr ↗**](https://github.com/zulilmiihsn/bps-sipw-ocr) |
 | [**BPS FRS Automator**](https://github.com/zulilmiihsn/bps-frs-extension) | **Government RPA Chrome Extension (`frs.bps.go.id`)**<br />Browser extension (Manifest V3) automating repetitive survey data entry into official BPS web portals with Drag-and-Drop JSON payload injection and keyboard hotkeys. | `Chrome Extension` `JavaScript` `DOM RPA` | [**bps-frs-extension ↗**](https://github.com/zulilmiihsn/bps-frs-extension) |
 | [**ilmi-os — Web OS**](https://github.com/zulilmiihsn/ilmi-os) | **Apple Ecosystem-Inspired Web Operating System**<br />Dual-mode (macOS Desktop + iOS Mobile) interactive OS simulator featuring full window multitasking, draggable desktop icons (@dnd-kit), native-style app suite, and Zustand state store. | `Next.js 15` `TypeScript` `Zustand` `Tailwind` | [**ilmi-os ↗**](https://github.com/zulilmiihsn/ilmi-os) |
-| [**Embrace Agency UI**](https://github.com/zulilmiihsn/embrace-agency-ui) | **Pixel-Perfect Figma-to-Code Slicing & Capture API**<br />Multi-section modern digital agency web app with responsive layout engineering, team grid, testimonial carousels, and built-in Puppeteer automated screenshot API. | `Next.js` `Puppeteer` `Tailwind` `TypeScript` | [**Live Demo ↗**](https://embrace-dummy.vercel.app) |
 
 ---
 
