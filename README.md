@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=650&lines=AI+Product+Engineer+%26+Fullstack+Builder;Building+autonomous+AI+agents+%26+browser+RPA;Computer+Vision+%26+PaddleOCR+ingestion+pipelines;Offline-first+retail+commerce+%26+Web+OS+architecture" alt="Dynamic Typing Header" />
 </p>
 
-[![ilmi-os](https://img.shields.io/badge/Flagship_OS-ilmi--os-0D1117?style=flat-square&logo=next.js&logoColor=white)](https://github.com/zulilmiihsn/ilmi-os)
-[![Automation Post](https://img.shields.io/badge/Growth_Bot-Automation_Post-0D1117?style=flat-square&logo=playwright&logoColor=white)](https://github.com/zulilmiihsn/automation-post)
-[![Zatiaras POS](https://img.shields.io/badge/Retail_POS-Zatiaras_Juice-0D1117?style=flat-square&logo=supabase&logoColor=white)](https://zatiaraspos.vercel.app)
-[![GitHub](https://img.shields.io/badge/All_Projects-GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/zulilmiihsn?tab=repositories)
+[![ilmi-os](https://img.shields.io/badge/Flagship_OS-ilmi--os-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/zulilmiihsn/ilmi-os)
+[![Automation Post](https://img.shields.io/badge/Growth_Bot-Automation_Post-000000?style=flat-square&logo=playwright&logoColor=white)](https://github.com/zulilmiihsn/automation-post)
+[![Zatiaras POS](https://img.shields.io/badge/Retail_POS-Zatiaras_Juice-000000?style=flat-square&logo=supabase&logoColor=white)](https://zatiaraspos.vercel.app)
+[![GitHub](https://img.shields.io/badge/All_Projects-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/zulilmiihsn?tab=repositories)
 
 ---
 
 ## Overview
 
-I build software designed to work under real constraints—whether that means extracting data from 17-column paper surveys with computer vision, running offline POS systems on low-spec second-hand hardware, or orchestrating multi-account browser agents with stealth automation.
+I build software designed to work under real constraints, whether that means extracting data from 17-column paper surveys with computer vision, running offline POS systems on low-spec second-hand hardware, or orchestrating multi-account browser agents with stealth automation.
 
 ---
 
